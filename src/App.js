@@ -6,7 +6,7 @@ import AtividadeLista from './components/AtividadeLista';
 let initialState = [
   {
     "id":1,
-    "titulo": "Fome",
+    "titulo": "Fomer",
     "prioridade": "3",
     "descricao": "Comer"
   },
